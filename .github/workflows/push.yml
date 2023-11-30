@@ -1,7 +1,0 @@
-on:
-  push:
-    branches:
-    - master
-    - about
-    - feature
-    - release/*
